@@ -1,0 +1,5 @@
+                                  Instructions
+
+1. All the code files are in the Project2-A04618727.rar file.
+2. Just extract the rar file for all the code files.
+3. Use Code-Blocks etc to execute the program.
