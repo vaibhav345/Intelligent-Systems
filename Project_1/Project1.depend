@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1411175665 source:c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\backwardsknowledgebase.cpp
+	"BackwardsKnowledgeBase.h"
+
+1410748179 c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\backwardsknowledgebase.h
+	<string>
+	<vector>
+	<map>
+	"Project1-A04367972.h"
+
+1410996371 c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\project1-a04367972.h
+	<string>
+	<vector>
+
+1411175122 source:c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\forwardsknowledgebase.cpp
+	"ForwardsKnowledgeBase.h"
+
+1410748071 c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\forwardsknowledgebase.h
+	<string>
+	<vector>
+	<map>
+	"Project1-A04367972.h"
+
+1411282084 source:c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\project1-a04367972.cpp
+	<iostream>
+	<cerrno>
+	"BackwardsChaining.h"
+	"ForwardsChaining.h"
+
+1411283168 source:c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\backwardschaining.cpp
+	"BackwardsChaining.h"
+
+1411282693 c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\backwardschaining.h
+	"KnowledgeBase.h"
+
+1411283370 c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\knowledgebase.h
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+	<map>
+	<utility>
+
+1411283135 source:c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\forwardschaining.cpp
+	"ForwardsChaining.h"
+
+1411282697 c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\forwardschaining.h
+	"KnowledgeBase.h"
+
+1411283314 source:c:\users\terry\skydrive\school\grad year 1\advanced artificial intelligence\project 1\project1\knowledgebase.cpp
+	"KnowledgeBase.h"
+
