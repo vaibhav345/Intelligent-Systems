@@ -1,1 +1,1 @@
-This repository contains the prokjects that implements the Forward-Backward Chaining and Alpha-Beta and Alpa-Beta MiniMax algorithms.
+This repository contains the projects that implements the Forward-Backward Chaining and Alpha-Beta and Alpa-Beta MiniMax algorithms.
